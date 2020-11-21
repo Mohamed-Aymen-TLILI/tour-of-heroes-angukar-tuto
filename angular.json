@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tour-of-heroes-angukar-tuto"
+    }
+  },
+  "defaultProject": "tour-of-heroes-angukar-tuto",
+  "cli": {
+    "analytics": false
+  }
 }
